@@ -26,7 +26,7 @@ class HomeScreen extends StatelessWidget {
               ), // optional: rounded corners
             ),
           ),
-          child: Text('Go to Settings', style: TextStyle(color: Colors.white)),
+          child: Text('Go to Settings', style: TextStyle(color: Colors.white,fontSize: 18)),
         ),
       ),
     );
